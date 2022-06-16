@@ -1,12 +1,14 @@
 mkdir
 git init<use only if you wanna create new projects>
+git config --global user.name ""
+git config --global user.email ""
 touch
 vi <file>
 git commit -m ""
 git log
 git diff<show differences or latest changes in files>
-git config rm -r --cached <file>
-git config rm -r --cached .
+git rm -r --cached <file>
+git rm -r --cached .
 git add <file>
 git add .
 ls -A<list all including hidden folders>
@@ -14,4 +16,4 @@ ls -l<list files and folders with details>
 rmdir
 rm -rf .git
 git status
-
+Keep up!
