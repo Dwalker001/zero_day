@@ -17,3 +17,18 @@ rmdir
 rm -rf .git
 git status
 Keep up!
+
+
+Emacs commands(Windows)
+C-w cut an entire line
+M-w Copy the entire line
+C-z : Stop Emacs and quit immediately without confirmation (All changes in buffer are lost).
+C-g : Cencel current command and revert back from command mode
+C-u : undo the last command.
+C-h i : Help in Emacs- describes emacs shortcuts and commands.
+C-x C-c : Save and quit.
+
+
+git remote add origin https://github.com/Dwalker001/zero_day.git
+git branch -M main
+git push -u origin main
