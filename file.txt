@@ -1,0 +1,3 @@
+10
+406
+echo "Best School\n" > Schools
